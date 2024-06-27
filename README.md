@@ -12,5 +12,5 @@ Test the existing notebooks, and fix issues
 
 NOTES.md are notes specific to this fork. They will:
 
-* they will log the user experience
-* any changes that should or have been made to the notebooks
+* will log the user experience
+* note any changes that should or have been made to the notebooks
