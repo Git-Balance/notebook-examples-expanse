@@ -14,3 +14,5 @@ Both of the notebooks are separated into two distinct sections, basic python tes
 - removed unneeded newlines in notebooks
 - added headers to notebooks
 - changed final python cell in GPU notebook to a markdown cell, since it only contained comments
+
+**Note**: listing all the changes inside of a NOTES.md file takes a lot of time and is redundent because of `git diff`, so other NOTES.md files will not have a changes sections
