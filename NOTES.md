@@ -33,4 +33,4 @@ These notebooks contain essential knowledge for developing your own Jupyter Note
 This has a few issues. The first issue is specific to this README.md, the unicode character `•` was used to create a list instead of the Markdown standard `-`. This means the README.md file will not render properly on sites like GitHub. The second issue, which is in most README.md files and is likely an issue with the original template for the files, is about the List of Content. It has a few issues issues:
 1. Instead of having an empty line between the List of Content, which is what is supposed to be done in Markdown files and the paragraph above it, a `\` is used
 2. There is a spelling error. Instead of "List of Content," it is "Lis*to*ve Content"
-3. "Listof Content" is indented. This doesn't actually show up in rendered Markdown, but it makes the raw Markdown file more confusing
+3. "Listof Content" is indented. This doesn't actually show up in rendered Markdown, but it makes the raw Markdown file more confusing\

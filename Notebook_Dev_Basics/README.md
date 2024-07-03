@@ -1,9 +1,10 @@
 # SDSC Expanse Notebook: Notebook_Dev_Basics
 This README file provides instructions for running notebooks related to LaTeX and Markdown on Expanse. 
-These notebooks contain essential knowledge for developing your own Jupyter Notebooks. 
-• LaTeX is a useful tool for math formatting, supported with the notebooks.
-• Markdown allows you to add formatted text in the notebooks.\
-  **Listof Content**
+These notebooks contain essential knowledge for developing your own Jupyter Notebooks.\
+• LaTeX is a useful tool for math formatting, supported with the notebooks.\
+• Markdown allows you to add formatted text in the notebooks.
+
+**List of Content**
 - [Import Module](#import-module)
 - [Launch Galyleo](#launch-galyleo)
 - [Environment Modules](#environment-modules)
@@ -37,8 +38,8 @@ To run latex and markdown notebooks, we do not need to install additional packag
 ## Location 
 
 Notebook_Dev_Basics\
-├──[notebook_dev_basics_latex_math.ipynb](./notebook_dev_basics_latex_math.ipynb)
-├──[notebook_dev_basics_markdown.ipynb](.notebook_dev_basics_markdown.ipynb)
+├──[notebook_dev_basics_latex_math.ipynb](./notebook_dev_basics_latex_math.ipynb)\
+├──[notebook_dev_basics_markdown.ipynb](.notebook_dev_basics_markdown.ipynb)\
 ├── README.md
 
 ## Sources
