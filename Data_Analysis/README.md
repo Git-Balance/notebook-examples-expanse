@@ -6,8 +6,9 @@ Keep in mind the added files:
 • city temps spreadsheet.xlsx  
 • city temps.csv  
 • olympics.csv  
-These contain the necessary data for the notebook to run.\
-  **Listof Content**
+These contain the necessary data for the notebook to run.
+
+**List of Content**
 - [Import Module](#import-module)
 - [Launch Galyleo](#launch-galyleo)
 - [Environment Modules](#environment-modules)
@@ -41,7 +42,7 @@ To run data_analysis_pandas notebook, we do not need to install additional packa
 
 ## Location 
 Data_Analysis\
-├──[data_analysis_pandas.ipynb](./data_analysis_pandas.ipynb)
+├──[data_analysis_pandas.ipynb](./data_analysis_pandas.ipynb)\
 ├── README.md
 
 ## Sources

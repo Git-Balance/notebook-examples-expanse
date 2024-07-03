@@ -1,19 +1,17 @@
-# SDSC Expanse Notebook: Notebook_Dev_Basics
-This README file provides instructions for running notebooks related to LaTeX and Markdown on Expanse. 
-These notebooks contain essential knowledge for developing your own Jupyter Notebooks.  
-• LaTeX is a useful tool for math formatting, supported with the notebooks.  
-• Markdown allows you to add formatted text in the notebooks.
+# SDSC Expanse Notebook: Hello_World
+This README file provides instructions for Expanse users to print 'Hello, World!' using both CPU and GPU on Expanse.
 
+These notebooks only include basic python functions and commands intended to test if your environment has been configured properly.
+It is recommended that you run these hello world notebooks to check that everything has been configured correctly.\
 **List of Content**
-- [Import Module](#import-module)
+- [Import Module:](#import-module)
 - [Launch Galyleo](#launch-galyleo)
 - [Environment Modules](#environment-modules)
 - [Install Modules](#install-modules)
 - [Location](#location)
-- [Sources](#sources)
 
 ## Import Module:
-To run the notebooks, no additional modules need to be loaded.
+- hello
 
 ## Launch Galyleo
 For specific information about launching Galyleo, please refer to [this GitHub repository](https://github.com/mkandes/galyleo).
@@ -33,16 +31,11 @@ Also this command line loads GPU modules and Anaconda3 in the Jupyter session to
 galyleo launch --account abc123 —partition gpu-shared --cpus 10 --memory 92 --gpus 1 --time-limit 00:30:00  --env-modules  gpu/0.17.3b,anaconda3/2021.05 --bind /oasis,/scratch --nv
 ```
 ## Install Modules
-To run latex and markdown notebooks, we do not need to install additional packages.
+To run hello_world notebooks, we do not need to install any additional packages.
 
 ## Location 
 
-Notebook_Dev_Basics\
-├──[notebook_dev_basics_latex_math.ipynb](./notebook_dev_basics_latex_math.ipynb)\
-├──[notebook_dev_basics_markdown.ipynb](.notebook_dev_basics_markdown.ipynb)\
+Hello_World\
+├── [hello_world_cpu.ipynb](./hello_world_cpu.ipynb)\
+├── [hello_world_gpu.ipynb](./hello_world_gpu.ipynb)\
 ├── README.md
-
-## Sources
-
-For all LaTeX symbols: https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols  
-A quick-access page for Markdown: https://www.markdownguide.org/cheat-sheet/

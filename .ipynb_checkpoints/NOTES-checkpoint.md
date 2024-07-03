@@ -15,8 +15,6 @@ The latex notebook in Notebook_Dev_Basics requires huge changes. See the [NOTES.
 The .gitingore file will:
 - Ignore .ipynb_checkpoint directories and their contents
 
-Actually, there was no .gitignore file before, and this repository already is tracking .ipynb_checkpoint files. It might be a good idea to just disable the .gitignore file right now
-
 ## README.md Files
 
 Every directory has its own README.md file to explain what the files in the directory are meant to do

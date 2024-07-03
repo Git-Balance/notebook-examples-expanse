@@ -1,7 +1,7 @@
 # SDSC Expanse Notebook: Notebook_Dev_Basics
 This README file provides instructions for running notebooks related to LaTeX and Markdown on Expanse. 
-These notebooks contain essential knowledge for developing your own Jupyter Notebooks.\
-• LaTeX is a useful tool for math formatting, supported with the notebooks.\
+These notebooks contain essential knowledge for developing your own Jupyter Notebooks.  
+• LaTeX is a useful tool for math formatting, supported with the notebooks.  
 • Markdown allows you to add formatted text in the notebooks.
 
 **List of Content**
